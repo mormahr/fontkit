@@ -1,4 +1,4 @@
-import r from 'restructure';
+import r from '@foliojs-fork/restructure';
 
 let KernPair = new r.Struct({
   left:   r.uint16,

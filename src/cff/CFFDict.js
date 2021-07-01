@@ -1,7 +1,7 @@
 import isEqual from 'deep-equal';
-import r from 'restructure';
+import r from '@foliojs-fork/restructure';
 import CFFOperand from './CFFOperand';
-import { PropertyDescriptor } from 'restructure/src/utils';
+import { PropertyDescriptor } from '@foliojs-fork/restructure/src/utils';
 
 export default class CFFDict {
   constructor(ops = []) {

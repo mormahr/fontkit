@@ -2,7 +2,7 @@ import fontkit from '../src';
 import assert from 'assert';
 import concat from 'concat-stream';
 import CFFFont from '../src/cff/CFFFont';
-import r from 'restructure';
+import r from '@foliojs-fork/restructure';
 import CFFGlyph from '../src/glyph/CFFGlyph';
 import fs from 'fs';
 

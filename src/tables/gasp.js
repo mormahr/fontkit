@@ -1,4 +1,4 @@
-import r from 'restructure';
+import r from '@foliojs-fork/restructure';
 
 let GaspRange = new r.Struct({
   rangeMaxPPEM:       r.uint16,                  // Upper limit of range, in ppem

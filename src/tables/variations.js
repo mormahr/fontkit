@@ -1,5 +1,5 @@
 import {Feature} from './opentype';
-import r from 'restructure';
+import r from '@foliojs-fork/restructure';
 
 /*******************
  * Variation Store *

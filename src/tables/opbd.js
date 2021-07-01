@@ -1,4 +1,4 @@
-import r from 'restructure';
+import r from '@foliojs-fork/restructure';
 import { LookupTable } from './aat';
 
 let OpticalBounds = new r.Struct({

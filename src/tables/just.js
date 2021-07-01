@@ -1,4 +1,4 @@
-import r from 'restructure';
+import r from '@foliojs-fork/restructure';
 import { LookupTable, StateTable1 } from './aat';
 
 let ClassTable = new r.Struct({

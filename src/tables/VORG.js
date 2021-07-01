@@ -1,4 +1,4 @@
-import r from 'restructure';
+import r from '@foliojs-fork/restructure';
 
 let VerticalOrigin = new r.Struct({
   glyphIndex:   r.uint16,

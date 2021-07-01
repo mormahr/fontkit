@@ -1,4 +1,4 @@
-import r from 'restructure';
+import r from '@foliojs-fork/restructure';
 
 let HmtxEntry = new r.Struct({
   advance: r.uint16,

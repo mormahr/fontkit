@@ -1,4 +1,4 @@
-import r from 'restructure';
+import r from '@foliojs-fork/restructure';
 import tables from './';
 
 let WOFFDirectoryEntry = new r.Struct({
