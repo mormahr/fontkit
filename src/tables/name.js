@@ -1,4 +1,4 @@
-import r from 'restructure';
+import r from '@foliojs-fork/restructure';
 import {getEncoding, LANGUAGES} from '../encodings';
 
 let NameRecord = new r.Struct({

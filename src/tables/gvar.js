@@ -1,4 +1,4 @@
-import r from 'restructure';
+import r from '@foliojs-fork/restructure';
 
 let shortFrac = new r.Fixed(16, 'BE', 14);
 class Offset {

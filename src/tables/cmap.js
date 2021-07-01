@@ -1,4 +1,4 @@
-import r from 'restructure';
+import r from '@foliojs-fork/restructure';
 
 let SubHeader = new r.Struct({
   firstCode:      r.uint16,

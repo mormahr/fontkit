@@ -1,4 +1,4 @@
-import r from 'restructure';
+import r from '@foliojs-fork/restructure';
 import TTFFont from './TTFFont';
 import Directory from './tables/directory';
 import tables from './tables';

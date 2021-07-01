@@ -1,4 +1,4 @@
-import r from 'restructure';
+import r from '@foliojs-fork/restructure';
 
 export let BigMetrics = new r.Struct({
   height: r.uint8,

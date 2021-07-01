@@ -6,6 +6,8 @@ coverage.html
 data.trie
 /index.js
 /base.js
+/index.es5.js
+/base.es5.js
 *.js.map
 use.trie
 use.json

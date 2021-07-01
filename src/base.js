@@ -1,4 +1,4 @@
-import r from 'restructure';
+import r from '@foliojs-fork/restructure';
 const fs = require('fs');
 
 var fontkit = {};
