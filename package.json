@@ -54,7 +54,7 @@
     "@foliojs-fork/restructure": "^2.0.1",
     "tiny-inflate": "^1.0.2",
     "unicode-properties": "^1.2.2",
-    "unicode-trie": "^0.3.0"
+    "unicode-trie": "^2.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
