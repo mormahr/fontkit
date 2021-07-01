@@ -11,7 +11,7 @@ function createConfig(filename, browserlist, suffix = '') {
       sourcemap: true
     },
     external: [
-      'restructure',
+      '@foliojs-fork/restructure',
       'tiny-inflate',
       'brotli/decompress',
       'unicode-properties',
@@ -19,7 +19,7 @@ function createConfig(filename, browserlist, suffix = '') {
       'deep-equal',
       'unicode-trie',
       'dfa',
-      'restructure/src/utils'
+      '@foliojs-fork/restructure/src/utils'
     ],
     plugins: [
       localResolve(),
@@ -27,7 +27,7 @@ function createConfig(filename, browserlist, suffix = '') {
       babel({
         presets: [
           [
-            '@babel/preset-env', 
+            '@babel/preset-env',
             {
               modules: false,
               targets: {
