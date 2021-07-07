@@ -15,6 +15,18 @@ Fontkit is an advanced font engine for Node and the browser, used by [PDFKit](ht
 * Support for AAT variation glyphs, allowing for nearly infinite design control over weight, width, and other axes.
 * Font subsetting support - create a new font including only the specified glyphs
 
+## Why fork?
+
+Because the package is no longer maintained and exists a lot of PRs with improvements/fixes.
+
+This forks contains these changes:
+- [Update build to babel 7](https://github.com/foliojs/fontkit/pull/196)
+- [Fix deprecated usage new Buffer](https://github.com/foliojs/fontkit/pull/227)
+- [Mocha: non-existent fonts report as pending](https://github.com/foliojs/fontkit/pull/226)
+- [Update restructure to v2](https://github.com/foliojs/fontkit/pull/225)
+- Move to [foliojs-fork/restructure](https://github.com/foliojs-fork/restructure) (see [Why fork?](https://github.com/foliojs-fork/restructure#why-fork))
+- [Migrate do GitHub Actions](https://github.com/foliojs-fork/fontkit/pull/4)
+
 ## Installation
 
     npm install @foliojs-fork/fontkit
