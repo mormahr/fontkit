@@ -26,6 +26,7 @@ This forks contains these changes:
 - [Update restructure to v2](https://github.com/foliojs/fontkit/pull/225)
 - Move to [foliojs-fork/restructure](https://github.com/foliojs-fork/restructure) (see [Why fork?](https://github.com/foliojs-fork/restructure#why-fork))
 - [Migrate do GitHub Actions](https://github.com/foliojs-fork/fontkit/pull/4)
+- [Fix Noto font bug](https://github.com/foliojs/fontkit/pull/230)
 
 ## Installation
 
