@@ -17,7 +17,7 @@ Fontkit is an advanced font engine for Node and the browser, used by [PDFKit](ht
 
 ## Why fork?
 
-Because the package is no longer maintained and exists a lot of PRs with improvements/fixes.
+Because the original repo is no longer maintained and exists a lot of PRs with improvements/fixes.
 
 This forks contains these changes:
 - [Update build to babel 7](https://github.com/foliojs/fontkit/pull/196)
