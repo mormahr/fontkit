@@ -1,4 +1,7 @@
-# Fork of fontkit
+# Fork of fontkit [![npm][npm_img]][npm_url]
+
+[npm_img]: https://img.shields.io/npm/v/@foliojs-fork/fontkit.svg
+[npm_url]: https://www.npmjs.com/package/@foliojs-fork/fontkit
 
 Fontkit is an advanced font engine for Node and the browser, used by [PDFKit](https://github.com/foliojs-fork/pdfkit). It supports many font formats, advanced glyph substitution and layout features, glyph path extraction, color emoji glyphs, font subsetting, and more.
 
